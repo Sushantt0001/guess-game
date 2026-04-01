@@ -48,7 +48,7 @@ A simple number guessing game built using JavaScript.
 
 ## 🌐 Live Demo
 
-(To be added after deployment)
+(https://sushantt0001.github.io/guess-game/)
 
 ---
 
